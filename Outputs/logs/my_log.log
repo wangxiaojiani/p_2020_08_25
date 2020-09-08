@@ -1,0 +1,503 @@
+2020-09-01 17:08:16,322-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:08:16,345-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02194070816040039】
+2020-09-01 17:08:16,345-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 17:08:16,366-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02093195915222168】
+2020-09-01 17:08:16,366-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 17:08:16,372-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 17:08:16,453-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 17:08:16,471-root-【INFO】-basepage.py-【50】:等待耗时为：【0.017937660217285156】
+2020-09-01 17:08:16,471-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 17:08:16,478-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 17:08:16,540-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:08:16,553-root-【INFO】-basepage.py-【50】:等待耗时为：【0.012966156005859375】
+2020-09-01 17:08:16,554-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:08:16,559-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:08:16,595-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()=' 展台展示']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 17:08:18,933-root-【INFO】-basepage.py-【50】:等待耗时为：【2.3384361267089844】
+2020-09-01 17:08:18,933-root-【INFO】-basepage.py-【77】:在 【首页-点击抢投标按钮】 行为，查找元素：【('xpath', "//span[text()=' 展台展示']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:08:18,940-root-【INFO】-basepage.py-【94】:在 【首页-点击抢投标按钮】 行为，点击元素：【('xpath', "//span[text()=' 展台展示']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:08:22,897-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:08:22,918-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02092456817626953】
+2020-09-01 17:08:22,918-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:08:22,925-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:08:22,935-root-【INFO】-basepage.py-【134】:文本值为：【200】
+2020-09-01 17:08:22,935-root-【INFO】-bid_page.py-【26】:200.0
+2020-09-01 17:08:22,935-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:08:22,959-root-【INFO】-basepage.py-【50】:等待耗时为：【0.023328065872192383】
+2020-09-01 17:08:22,960-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:08:22,964-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 17:08:22,969-root-【INFO】-basepage.py-【149】:属性值为：【6122601063.42】
+2020-09-01 17:08:22,969-root-【INFO】-basepage.py-【38】:在 【标页面-输入投资金额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:08:22,983-root-【INFO】-basepage.py-【50】:等待耗时为：【0.014952421188354492】
+2020-09-01 17:08:22,983-root-【INFO】-basepage.py-【77】:在 【标页面-输入投资金额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:08:22,991-root-【INFO】-basepage.py-【106】:在 【标页面-输入投资金额】 行为，给元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 输入文本值：【100】
+2020-09-01 17:08:23,045-root-【INFO】-basepage.py-【38】:在 【标页面-点击投标按钮】 行为，等待元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】 可见
+2020-09-01 17:08:23,067-root-【INFO】-basepage.py-【50】:等待耗时为：【0.0219271183013916】
+2020-09-01 17:08:23,067-root-【INFO】-basepage.py-【77】:在 【标页面-点击投标按钮】 行为，查找元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:08:23,076-root-【INFO】-basepage.py-【94】:在 【标页面-点击投标按钮】 行为，点击元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:08:23,117-root-【INFO】-basepage.py-【38】:在 【投标成功页面-点击查看并激活按钮】 行为，等待元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】 可见
+2020-09-01 17:08:23,665-root-【INFO】-basepage.py-【50】:等待耗时为：【0.5482268333435059】
+2020-09-01 17:08:23,665-root-【INFO】-basepage.py-【77】:在 【投标成功页面-点击查看并激活按钮】 行为，查找元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:08:23,675-root-【INFO】-basepage.py-【94】:在 【投标成功页面-点击查看并激活按钮】 行为，点击元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:08:41,183-root-【INFO】-basepage.py-【38】:在 【用户页面-查看用户余额】 行为，等待元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 可见
+2020-09-01 17:08:41,206-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02292799949645996】
+2020-09-01 17:08:41,206-root-【INFO】-basepage.py-【77】:在 【用户页面-查看用户余额】 行为，查找元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】
+2020-09-01 17:08:41,212-root-【INFO】-basepage.py-【126】:在 【用户页面-查看用户余额】 行为，获取元素 【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 的文本值。
+2020-09-01 17:08:41,223-root-【INFO】-basepage.py-【134】:文本值为：【6122600963.42元】
+2020-09-01 17:09:42,831-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:09:42,855-root-【INFO】-basepage.py-【50】:等待耗时为：【0.022924184799194336】
+2020-09-01 17:09:42,855-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 17:09:42,875-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01993536949157715】
+2020-09-01 17:09:42,876-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 17:09:42,881-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 17:09:43,014-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 17:09:43,042-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02790975570678711】
+2020-09-01 17:09:43,042-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 17:09:43,048-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 17:09:43,119-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:09:43,131-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01196146011352539】
+2020-09-01 17:09:43,131-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:09:43,140-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:09:43,188-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()=' 展台展示']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 17:09:45,492-root-【INFO】-basepage.py-【50】:等待耗时为：【2.3035569190979004】
+2020-09-01 17:09:45,492-root-【INFO】-basepage.py-【77】:在 【首页-点击抢投标按钮】 行为，查找元素：【('xpath', "//span[text()=' 展台展示']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:09:45,499-root-【INFO】-basepage.py-【94】:在 【首页-点击抢投标按钮】 行为，点击元素：【('xpath', "//span[text()=' 展台展示']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:09:49,368-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:09:49,393-root-【INFO】-basepage.py-【50】:等待耗时为：【0.024922609329223633】
+2020-09-01 17:09:49,393-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:09:49,399-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:09:49,412-root-【INFO】-basepage.py-【134】:文本值为：【100】
+2020-09-01 17:09:49,412-root-【INFO】-bid_page.py-【26】:100.0
+2020-09-01 17:09:49,412-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:09:49,431-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01893925666809082】
+2020-09-01 17:09:49,431-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:09:49,436-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 17:09:49,450-root-【INFO】-basepage.py-【149】:属性值为：【6122600963.42】
+2020-09-01 17:09:49,450-root-【INFO】-basepage.py-【38】:在 【标页面-输入投资金额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:09:49,465-root-【INFO】-basepage.py-【50】:等待耗时为：【0.014950275421142578】
+2020-09-01 17:09:49,465-root-【INFO】-basepage.py-【77】:在 【标页面-输入投资金额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:09:49,470-root-【INFO】-basepage.py-【106】:在 【标页面-输入投资金额】 行为，给元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 输入文本值：【100】
+2020-09-01 17:09:49,547-root-【INFO】-basepage.py-【38】:在 【标页面-点击投标按钮】 行为，等待元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】 可见
+2020-09-01 17:09:49,568-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02093219757080078】
+2020-09-01 17:09:49,568-root-【INFO】-basepage.py-【77】:在 【标页面-点击投标按钮】 行为，查找元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:09:49,578-root-【INFO】-basepage.py-【94】:在 【标页面-点击投标按钮】 行为，点击元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:09:49,659-root-【INFO】-basepage.py-【38】:在 【投标成功页面-点击查看并激活按钮】 行为，等待元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】 可见
+2020-09-01 17:09:50,197-root-【INFO】-basepage.py-【50】:等待耗时为：【0.5372617244720459】
+2020-09-01 17:09:50,197-root-【INFO】-basepage.py-【77】:在 【投标成功页面-点击查看并激活按钮】 行为，查找元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:09:50,204-root-【INFO】-basepage.py-【94】:在 【投标成功页面-点击查看并激活按钮】 行为，点击元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:10:07,752-root-【INFO】-basepage.py-【38】:在 【用户页面-查看用户余额】 行为，等待元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 可见
+2020-09-01 17:10:07,773-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02093219757080078】
+2020-09-01 17:10:07,774-root-【INFO】-basepage.py-【77】:在 【用户页面-查看用户余额】 行为，查找元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】
+2020-09-01 17:10:07,781-root-【INFO】-basepage.py-【126】:在 【用户页面-查看用户余额】 行为，获取元素 【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 的文本值。
+2020-09-01 17:10:07,791-root-【INFO】-basepage.py-【134】:文本值为：【6122600863.42元】
+2020-09-01 17:10:11,631-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:10:31,935-root-【ERROR】-basepage.py-【44】:等待元素可见失败！
+Traceback (most recent call last):
+  File "E:\PycharmProjects\untitled\p_2020_08_25\Common\basepage.py", line 41, in wait_ele_visible
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\wangj38\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-09-01 17:10:32,306-root-【INFO】-basepage.py-【203】:截图保存在：【E:\PycharmProjects\untitled\p_2020_08_25\Outputs\screenshots\标页面-获取用户余额_2020-09-01-17-10-31.png】
+2020-09-01 17:16:14,106-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:16:14,129-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02292156219482422】
+2020-09-01 17:16:14,129-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 17:16:14,149-root-【INFO】-basepage.py-【50】:等待耗时为：【0.019932270050048828】
+2020-09-01 17:16:14,149-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 17:16:14,154-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 17:16:14,281-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 17:16:14,305-root-【INFO】-basepage.py-【50】:等待耗时为：【0.022921323776245117】
+2020-09-01 17:16:14,305-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 17:16:14,311-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 17:16:14,391-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:16:14,404-root-【INFO】-basepage.py-【50】:等待耗时为：【0.012955665588378906】
+2020-09-01 17:16:14,404-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:16:14,414-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:16:14,475-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()='测试1598945092807']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 17:16:34,925-root-【ERROR】-basepage.py-【44】:等待元素可见失败！
+Traceback (most recent call last):
+  File "E:\PycharmProjects\untitled\p_2020_08_25\Common\basepage.py", line 41, in wait_ele_visible
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\wangj38\AppData\Local\Programs\Python\Python37\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2020-09-01 17:16:35,307-root-【INFO】-basepage.py-【203】:截图保存在：【E:\PycharmProjects\untitled\p_2020_08_25\Outputs\screenshots\首页-点击抢投标按钮_2020-09-01-17-16-34.png】
+2020-09-01 17:18:39,199-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:18:39,224-root-【INFO】-basepage.py-【50】:等待耗时为：【0.024915218353271484】
+2020-09-01 17:18:39,224-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 17:18:39,245-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02192521095275879】
+2020-09-01 17:18:39,245-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 17:18:39,250-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 17:18:39,387-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 17:18:39,411-root-【INFO】-basepage.py-【50】:等待耗时为：【0.023919105529785156】
+2020-09-01 17:18:39,411-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 17:18:39,420-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 17:18:39,507-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:18:39,519-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01196432113647461】
+2020-09-01 17:18:39,520-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:18:39,528-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:18:39,586-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 17:18:42,054-root-【INFO】-basepage.py-【50】:等待耗时为：【2.467501640319824】
+2020-09-01 17:18:42,054-root-【INFO】-basepage.py-【77】:在 【首页-点击抢投标按钮】 行为，查找元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:18:42,061-root-【INFO】-basepage.py-【94】:在 【首页-点击抢投标按钮】 行为，点击元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:18:46,167-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:18:46,207-root-【INFO】-basepage.py-【50】:等待耗时为：【0.03886771202087402】
+2020-09-01 17:18:46,207-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:18:46,213-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:18:46,228-root-【INFO】-basepage.py-【134】:文本值为：【10】
+2020-09-01 17:18:46,228-root-【INFO】-bid_page.py-【26】:100000.0
+2020-09-01 17:18:46,228-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:18:46,247-root-【INFO】-basepage.py-【50】:等待耗时为：【0.018935680389404297】
+2020-09-01 17:18:46,247-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:18:46,256-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 17:18:46,262-root-【INFO】-basepage.py-【149】:属性值为：【6122600863.42】
+2020-09-01 17:18:46,262-root-【INFO】-basepage.py-【38】:在 【标页面-输入投资金额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:18:46,277-root-【INFO】-basepage.py-【50】:等待耗时为：【0.014949560165405273】
+2020-09-01 17:18:46,278-root-【INFO】-basepage.py-【77】:在 【标页面-输入投资金额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:18:46,283-root-【INFO】-basepage.py-【106】:在 【标页面-输入投资金额】 行为，给元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 输入文本值：【100】
+2020-09-01 17:18:46,411-root-【INFO】-basepage.py-【38】:在 【标页面-点击投标按钮】 行为，等待元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】 可见
+2020-09-01 17:18:46,446-root-【INFO】-basepage.py-【50】:等待耗时为：【0.0348813533782959】
+2020-09-01 17:18:46,446-root-【INFO】-basepage.py-【77】:在 【标页面-点击投标按钮】 行为，查找元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:18:46,451-root-【INFO】-basepage.py-【94】:在 【标页面-点击投标按钮】 行为，点击元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:18:46,522-root-【INFO】-basepage.py-【38】:在 【投标成功页面-点击查看并激活按钮】 行为，等待元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】 可见
+2020-09-01 17:18:47,059-root-【INFO】-basepage.py-【50】:等待耗时为：【0.5371770858764648】
+2020-09-01 17:18:47,059-root-【INFO】-basepage.py-【77】:在 【投标成功页面-点击查看并激活按钮】 行为，查找元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:18:47,067-root-【INFO】-basepage.py-【94】:在 【投标成功页面-点击查看并激活按钮】 行为，点击元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:19:04,760-root-【INFO】-basepage.py-【38】:在 【用户页面-查看用户余额】 行为，等待元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 可见
+2020-09-01 17:19:04,782-root-【INFO】-basepage.py-【50】:等待耗时为：【0.021925687789916992】
+2020-09-01 17:19:04,782-root-【INFO】-basepage.py-【77】:在 【用户页面-查看用户余额】 行为，查找元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】
+2020-09-01 17:19:04,787-root-【INFO】-basepage.py-【126】:在 【用户页面-查看用户余额】 行为，获取元素 【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 的文本值。
+2020-09-01 17:19:04,798-root-【INFO】-basepage.py-【134】:文本值为：【6122600763.42元】
+2020-09-01 17:19:08,670-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:19:08,701-root-【INFO】-basepage.py-【50】:等待耗时为：【0.0308990478515625】
+2020-09-01 17:19:08,701-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:19:08,708-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 17:19:08,718-root-【INFO】-basepage.py-【149】:属性值为：【6122600763.42】
+2020-09-01 17:25:11,239-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:25:11,265-root-【INFO】-basepage.py-【50】:等待耗时为：【0.024913787841796875】
+2020-09-01 17:25:11,266-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 17:25:11,289-root-【INFO】-basepage.py-【50】:等待耗时为：【0.0229184627532959】
+2020-09-01 17:25:11,289-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 17:25:11,297-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 17:25:11,409-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 17:25:11,432-root-【INFO】-basepage.py-【50】:等待耗时为：【0.022918701171875】
+2020-09-01 17:25:11,432-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 17:25:11,443-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 17:25:11,507-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:25:11,520-root-【INFO】-basepage.py-【50】:等待耗时为：【0.013952016830444336】
+2020-09-01 17:25:11,520-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:25:11,525-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:25:11,562-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 17:25:13,936-root-【INFO】-basepage.py-【50】:等待耗时为：【2.3738536834716797】
+2020-09-01 17:25:13,936-root-【INFO】-basepage.py-【77】:在 【首页-点击抢投标按钮】 行为，查找元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:25:13,944-root-【INFO】-basepage.py-【94】:在 【首页-点击抢投标按钮】 行为，点击元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:25:17,719-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:25:17,746-root-【INFO】-basepage.py-【50】:等待耗时为：【0.0269010066986084】
+2020-09-01 17:25:17,746-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:25:17,751-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:25:17,763-root-【INFO】-basepage.py-【134】:文本值为：【9.99】
+2020-09-01 17:25:17,763-root-【INFO】-bid_page.py-【26】:99900.0
+2020-09-01 17:25:17,763-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:25:17,780-root-【INFO】-basepage.py-【50】:等待耗时为：【0.016942262649536133】
+2020-09-01 17:25:17,780-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:25:17,786-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 17:25:17,791-root-【INFO】-basepage.py-【149】:属性值为：【6122600763.42】
+2020-09-01 17:25:17,791-root-【INFO】-basepage.py-【38】:在 【标页面-输入投资金额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:25:17,805-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01395416259765625】
+2020-09-01 17:25:17,805-root-【INFO】-basepage.py-【77】:在 【标页面-输入投资金额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:25:17,810-root-【INFO】-basepage.py-【106】:在 【标页面-输入投资金额】 行为，给元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 输入文本值：【100】
+2020-09-01 17:25:17,862-root-【INFO】-basepage.py-【38】:在 【标页面-点击投标按钮】 行为，等待元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】 可见
+2020-09-01 17:25:17,881-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01893448829650879】
+2020-09-01 17:25:17,881-root-【INFO】-basepage.py-【77】:在 【标页面-点击投标按钮】 行为，查找元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:25:17,892-root-【INFO】-basepage.py-【94】:在 【标页面-点击投标按钮】 行为，点击元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:25:17,948-root-【INFO】-basepage.py-【38】:在 【投标成功页面-点击查看并激活按钮】 行为，等待元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】 可见
+2020-09-01 17:25:18,479-root-【INFO】-basepage.py-【50】:等待耗时为：【0.5301768779754639】
+2020-09-01 17:25:18,479-root-【INFO】-basepage.py-【77】:在 【投标成功页面-点击查看并激活按钮】 行为，查找元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:25:18,491-root-【INFO】-basepage.py-【94】:在 【投标成功页面-点击查看并激活按钮】 行为，点击元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:25:35,710-root-【INFO】-basepage.py-【38】:在 【用户页面-查看用户余额】 行为，等待元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 可见
+2020-09-01 17:25:35,732-root-【INFO】-basepage.py-【50】:等待耗时为：【0.021923303604125977】
+2020-09-01 17:25:35,732-root-【INFO】-basepage.py-【77】:在 【用户页面-查看用户余额】 行为，查找元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】
+2020-09-01 17:25:35,738-root-【INFO】-basepage.py-【126】:在 【用户页面-查看用户余额】 行为，获取元素 【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 的文本值。
+2020-09-01 17:25:35,750-root-【INFO】-basepage.py-【134】:文本值为：【6122600663.42元】
+2020-09-01 17:25:39,512-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:25:39,537-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02391815185546875】
+2020-09-01 17:25:39,537-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:25:39,548-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:25:39,558-root-【INFO】-basepage.py-【134】:文本值为：【9.98】
+2020-09-01 17:25:39,558-root-【INFO】-bid_page.py-【26】:99800.0
+2020-09-01 17:27:54,075-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:27:54,100-root-【INFO】-basepage.py-【50】:等待耗时为：【0.023940324783325195】
+2020-09-01 17:27:54,100-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 17:27:54,123-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02292156219482422】
+2020-09-01 17:27:54,124-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 17:27:54,130-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 17:27:54,313-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 17:27:54,335-root-【INFO】-basepage.py-【50】:等待耗时为：【0.020926952362060547】
+2020-09-01 17:27:54,335-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 17:27:54,342-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 17:27:54,431-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:27:54,448-root-【INFO】-basepage.py-【50】:等待耗时为：【0.016951560974121094】
+2020-09-01 17:27:54,448-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:27:54,458-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:27:54,512-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 17:27:56,927-root-【INFO】-basepage.py-【50】:等待耗时为：【2.414630889892578】
+2020-09-01 17:27:56,927-root-【INFO】-basepage.py-【77】:在 【首页-点击抢投标按钮】 行为，查找元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:27:56,936-root-【INFO】-basepage.py-【94】:在 【首页-点击抢投标按钮】 行为，点击元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:28:00,862-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:28:00,891-root-【INFO】-basepage.py-【50】:等待耗时为：【0.028899192810058594】
+2020-09-01 17:28:00,891-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:28:00,899-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:28:00,923-root-【INFO】-basepage.py-【134】:文本值为：【9.98】
+2020-09-01 17:28:00,923-root-【INFO】-bid_page.py-【26】:99800.0
+2020-09-01 17:28:00,923-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:28:00,943-root-【INFO】-basepage.py-【50】:等待耗时为：【0.019929885864257812】
+2020-09-01 17:28:00,944-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:28:00,949-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 17:28:00,955-root-【INFO】-basepage.py-【149】:属性值为：【6122600663.42】
+2020-09-01 17:28:00,956-root-【INFO】-basepage.py-【38】:在 【标页面-输入投资金额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:28:00,968-root-【INFO】-basepage.py-【50】:等待耗时为：【0.011957645416259766】
+2020-09-01 17:28:00,968-root-【INFO】-basepage.py-【77】:在 【标页面-输入投资金额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:28:00,974-root-【INFO】-basepage.py-【106】:在 【标页面-输入投资金额】 行为，给元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 输入文本值：【100】
+2020-09-01 17:28:01,075-root-【INFO】-basepage.py-【38】:在 【标页面-点击投标按钮】 行为，等待元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】 可见
+2020-09-01 17:28:01,101-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02591085433959961】
+2020-09-01 17:28:01,101-root-【INFO】-basepage.py-【77】:在 【标页面-点击投标按钮】 行为，查找元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:28:01,116-root-【INFO】-basepage.py-【94】:在 【标页面-点击投标按钮】 行为，点击元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:28:01,187-root-【INFO】-basepage.py-【38】:在 【投标成功页面-点击查看并激活按钮】 行为，等待元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】 可见
+2020-09-01 17:28:01,725-root-【INFO】-basepage.py-【50】:等待耗时为：【0.5381348133087158】
+2020-09-01 17:28:01,726-root-【INFO】-basepage.py-【77】:在 【投标成功页面-点击查看并激活按钮】 行为，查找元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:28:01,731-root-【INFO】-basepage.py-【94】:在 【投标成功页面-点击查看并激活按钮】 行为，点击元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:28:19,119-root-【INFO】-basepage.py-【38】:在 【用户页面-查看用户余额】 行为，等待元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 可见
+2020-09-01 17:28:19,144-root-【INFO】-basepage.py-【50】:等待耗时为：【0.023914813995361328】
+2020-09-01 17:28:19,144-root-【INFO】-basepage.py-【77】:在 【用户页面-查看用户余额】 行为，查找元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】
+2020-09-01 17:28:19,150-root-【INFO】-basepage.py-【126】:在 【用户页面-查看用户余额】 行为，获取元素 【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 的文本值。
+2020-09-01 17:28:19,160-root-【INFO】-basepage.py-【134】:文本值为：【6122600563.42元】
+2020-09-01 17:28:25,582-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:28:25,614-root-【INFO】-basepage.py-【50】:等待耗时为：【0.030893564224243164】
+2020-09-01 17:28:25,614-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:28:25,620-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:28:25,634-root-【INFO】-basepage.py-【134】:文本值为：【9.97】
+2020-09-01 17:28:25,634-root-【INFO】-bid_page.py-【26】:99700.0
+2020-09-01 17:29:33,378-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:29:33,403-root-【INFO】-basepage.py-【50】:等待耗时为：【0.024915218353271484】
+2020-09-01 17:29:33,404-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 17:29:33,424-root-【INFO】-basepage.py-【50】:等待耗时为：【0.019930362701416016】
+2020-09-01 17:29:33,424-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 17:29:33,430-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 17:29:33,568-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 17:29:33,590-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02292156219482422】
+2020-09-01 17:29:33,590-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 17:29:33,597-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 17:29:33,678-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:29:33,690-root-【INFO】-basepage.py-【50】:等待耗时为：【0.011959075927734375】
+2020-09-01 17:29:33,690-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:29:33,700-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:29:33,754-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 17:29:36,981-root-【INFO】-basepage.py-【50】:等待耗时为：【3.226815938949585】
+2020-09-01 17:29:36,981-root-【INFO】-basepage.py-【77】:在 【首页-点击抢投标按钮】 行为，查找元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:29:36,986-root-【INFO】-basepage.py-【94】:在 【首页-点击抢投标按钮】 行为，点击元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:29:40,671-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:29:40,698-root-【INFO】-basepage.py-【50】:等待耗时为：【0.0259096622467041】
+2020-09-01 17:29:40,698-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:29:40,703-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:29:40,717-root-【INFO】-basepage.py-【134】:文本值为：【9.97】
+2020-09-01 17:29:40,717-root-【INFO】-bid_page.py-【26】:99700.0
+2020-09-01 17:29:40,717-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:29:40,736-root-【INFO】-basepage.py-【50】:等待耗时为：【0.018934249877929688】
+2020-09-01 17:29:40,736-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:29:40,746-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 17:29:40,751-root-【INFO】-basepage.py-【149】:属性值为：【6122600563.42】
+2020-09-01 17:29:40,751-root-【INFO】-basepage.py-【38】:在 【标页面-输入投资金额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:29:40,766-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01494741439819336】
+2020-09-01 17:29:40,767-root-【INFO】-basepage.py-【77】:在 【标页面-输入投资金额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:29:40,772-root-【INFO】-basepage.py-【106】:在 【标页面-输入投资金额】 行为，给元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 输入文本值：【100】
+2020-09-01 17:29:40,871-root-【INFO】-basepage.py-【38】:在 【标页面-点击投标按钮】 行为，等待元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】 可见
+2020-09-01 17:29:40,896-root-【INFO】-basepage.py-【50】:等待耗时为：【0.024915456771850586】
+2020-09-01 17:29:40,896-root-【INFO】-basepage.py-【77】:在 【标页面-点击投标按钮】 行为，查找元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:29:40,904-root-【INFO】-basepage.py-【94】:在 【标页面-点击投标按钮】 行为，点击元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:29:40,970-root-【INFO】-basepage.py-【38】:在 【投标成功页面-点击查看并激活按钮】 行为，等待元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】 可见
+2020-09-01 17:29:41,503-root-【INFO】-basepage.py-【50】:等待耗时为：【0.5331804752349854】
+2020-09-01 17:29:41,503-root-【INFO】-basepage.py-【77】:在 【投标成功页面-点击查看并激活按钮】 行为，查找元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:29:41,510-root-【INFO】-basepage.py-【94】:在 【投标成功页面-点击查看并激活按钮】 行为，点击元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:29:58,454-root-【INFO】-basepage.py-【38】:在 【用户页面-查看用户余额】 行为，等待元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 可见
+2020-09-01 17:29:58,476-root-【INFO】-basepage.py-【50】:等待耗时为：【0.021923542022705078】
+2020-09-01 17:29:58,476-root-【INFO】-basepage.py-【77】:在 【用户页面-查看用户余额】 行为，查找元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】
+2020-09-01 17:29:58,483-root-【INFO】-basepage.py-【126】:在 【用户页面-查看用户余额】 行为，获取元素 【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 的文本值。
+2020-09-01 17:29:58,494-root-【INFO】-basepage.py-【134】:文本值为：【6122600463.42元】
+2020-09-01 17:30:04,270-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:30:04,293-root-【INFO】-basepage.py-【50】:等待耗时为：【0.022920846939086914】
+2020-09-01 17:30:04,293-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:30:04,302-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:30:04,314-root-【INFO】-basepage.py-【134】:文本值为：【9.96】
+2020-09-01 17:30:04,315-root-【INFO】-bid_page.py-【26】:99600.00000000001
+2020-09-01 17:31:24,822-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:31:24,849-root-【INFO】-basepage.py-【50】:等待耗时为：【0.026154518127441406】
+2020-09-01 17:31:24,850-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 17:31:24,868-root-【INFO】-basepage.py-【50】:等待耗时为：【0.018933773040771484】
+2020-09-01 17:31:24,869-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 17:31:24,874-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 17:31:24,945-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 17:31:24,964-root-【INFO】-basepage.py-【50】:等待耗时为：【0.018934011459350586】
+2020-09-01 17:31:24,964-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 17:31:24,973-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 17:31:25,036-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:31:25,048-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01195836067199707】
+2020-09-01 17:31:25,048-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:31:25,052-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:31:25,089-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 17:31:27,218-root-【INFO】-basepage.py-【50】:等待耗时为：【2.12960147857666】
+2020-09-01 17:31:27,219-root-【INFO】-basepage.py-【77】:在 【首页-点击抢投标按钮】 行为，查找元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:31:27,224-root-【INFO】-basepage.py-【94】:在 【首页-点击抢投标按钮】 行为，点击元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:31:30,973-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:31:30,999-root-【INFO】-basepage.py-【50】:等待耗时为：【0.025909900665283203】
+2020-09-01 17:31:30,999-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:31:31,005-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:31:31,018-root-【INFO】-basepage.py-【134】:文本值为：【9.96】
+2020-09-01 17:31:31,018-root-【INFO】-bid_page.py-【26】:99600.00000000001
+2020-09-01 17:31:31,019-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:31:31,038-root-【INFO】-basepage.py-【50】:等待耗时为：【0.018899917602539062】
+2020-09-01 17:31:31,038-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:31:31,043-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 17:31:31,050-root-【INFO】-basepage.py-【149】:属性值为：【6122600463.42】
+2020-09-01 17:31:31,050-root-【INFO】-basepage.py-【38】:在 【标页面-输入投资金额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:31:31,064-root-【INFO】-basepage.py-【50】:等待耗时为：【0.013952493667602539】
+2020-09-01 17:31:31,064-root-【INFO】-basepage.py-【77】:在 【标页面-输入投资金额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:31:31,070-root-【INFO】-basepage.py-【106】:在 【标页面-输入投资金额】 行为，给元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 输入文本值：【100】
+2020-09-01 17:31:31,123-root-【INFO】-basepage.py-【38】:在 【标页面-点击投标按钮】 行为，等待元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】 可见
+2020-09-01 17:31:31,144-root-【INFO】-basepage.py-【50】:等待耗时为：【0.020925283432006836】
+2020-09-01 17:31:31,144-root-【INFO】-basepage.py-【77】:在 【标页面-点击投标按钮】 行为，查找元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:31:31,153-root-【INFO】-basepage.py-【94】:在 【标页面-点击投标按钮】 行为，点击元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:31:31,208-root-【INFO】-basepage.py-【38】:在 【投标成功页面-点击查看并激活按钮】 行为，等待元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】 可见
+2020-09-01 17:31:31,741-root-【INFO】-basepage.py-【50】:等待耗时为：【0.5321435928344727】
+2020-09-01 17:31:31,741-root-【INFO】-basepage.py-【77】:在 【投标成功页面-点击查看并激活按钮】 行为，查找元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:31:31,754-root-【INFO】-basepage.py-【94】:在 【投标成功页面-点击查看并激活按钮】 行为，点击元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:31:49,003-root-【INFO】-basepage.py-【38】:在 【用户页面-查看用户余额】 行为，等待元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 可见
+2020-09-01 17:31:49,024-root-【INFO】-basepage.py-【50】:等待耗时为：【0.020958423614501953】
+2020-09-01 17:31:49,024-root-【INFO】-basepage.py-【77】:在 【用户页面-查看用户余额】 行为，查找元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】
+2020-09-01 17:31:49,031-root-【INFO】-basepage.py-【126】:在 【用户页面-查看用户余额】 行为，获取元素 【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 的文本值。
+2020-09-01 17:31:49,041-root-【INFO】-basepage.py-【134】:文本值为：【6122600363.42元】
+2020-09-01 17:31:54,891-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:31:54,921-root-【INFO】-basepage.py-【50】:等待耗时为：【0.028897762298583984】
+2020-09-01 17:31:54,922-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:31:54,927-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:31:54,940-root-【INFO】-basepage.py-【134】:文本值为：【9.95】
+2020-09-01 17:31:54,940-root-【INFO】-bid_page.py-【26】:99500.0
+2020-09-01 17:33:08,874-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:33:08,897-root-【INFO】-basepage.py-【50】:等待耗时为：【0.022920608520507812】
+2020-09-01 17:33:08,898-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 17:33:08,918-root-【INFO】-basepage.py-【50】:等待耗时为：【0.019930124282836914】
+2020-09-01 17:33:08,918-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 17:33:08,924-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 17:33:09,058-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 17:33:09,084-root-【INFO】-basepage.py-【50】:等待耗时为：【0.025908946990966797】
+2020-09-01 17:33:09,084-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 17:33:09,089-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 17:33:09,159-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 17:33:09,171-root-【INFO】-basepage.py-【50】:等待耗时为：【0.011953353881835938】
+2020-09-01 17:33:09,172-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:33:09,177-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 17:33:09,229-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 17:33:11,782-root-【INFO】-basepage.py-【50】:等待耗时为：【2.5520973205566406】
+2020-09-01 17:33:11,782-root-【INFO】-basepage.py-【77】:在 【首页-点击抢投标按钮】 行为，查找元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:33:11,790-root-【INFO】-basepage.py-【94】:在 【首页-点击抢投标按钮】 行为，点击元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 17:33:15,524-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:33:15,549-root-【INFO】-basepage.py-【50】:等待耗时为：【0.023916244506835938】
+2020-09-01 17:33:15,549-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:33:15,557-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:33:15,570-root-【INFO】-basepage.py-【134】:文本值为：【8.95】
+2020-09-01 17:33:15,570-root-【INFO】-bid_page.py-【26】:89500.0
+2020-09-01 17:33:15,570-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:33:15,588-root-【INFO】-basepage.py-【50】:等待耗时为：【0.017937421798706055】
+2020-09-01 17:33:15,588-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:33:15,593-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 17:33:15,602-root-【INFO】-basepage.py-【149】:属性值为：【6122600363.42】
+2020-09-01 17:33:15,602-root-【INFO】-basepage.py-【38】:在 【标页面-输入投资金额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 17:33:15,614-root-【INFO】-basepage.py-【50】:等待耗时为：【0.010961294174194336】
+2020-09-01 17:33:15,614-root-【INFO】-basepage.py-【77】:在 【标页面-输入投资金额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 17:33:15,621-root-【INFO】-basepage.py-【106】:在 【标页面-输入投资金额】 行为，给元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 输入文本值：【100】
+2020-09-01 17:33:15,722-root-【INFO】-basepage.py-【38】:在 【标页面-点击投标按钮】 行为，等待元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】 可见
+2020-09-01 17:33:15,745-root-【INFO】-basepage.py-【50】:等待耗时为：【0.022919654846191406】
+2020-09-01 17:33:15,746-root-【INFO】-basepage.py-【77】:在 【标页面-点击投标按钮】 行为，查找元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:33:15,759-root-【INFO】-basepage.py-【94】:在 【标页面-点击投标按钮】 行为，点击元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 17:33:15,815-root-【INFO】-basepage.py-【38】:在 【投标成功页面-点击查看并激活按钮】 行为，等待元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】 可见
+2020-09-01 17:33:16,351-root-【INFO】-basepage.py-【50】:等待耗时为：【0.5361294746398926】
+2020-09-01 17:33:16,351-root-【INFO】-basepage.py-【77】:在 【投标成功页面-点击查看并激活按钮】 行为，查找元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:33:16,357-root-【INFO】-basepage.py-【94】:在 【投标成功页面-点击查看并激活按钮】 行为，点击元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 17:33:33,637-root-【INFO】-basepage.py-【38】:在 【用户页面-查看用户余额】 行为，等待元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 可见
+2020-09-01 17:33:33,659-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02295827865600586】
+2020-09-01 17:33:33,659-root-【INFO】-basepage.py-【77】:在 【用户页面-查看用户余额】 行为，查找元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】
+2020-09-01 17:33:33,664-root-【INFO】-basepage.py-【126】:在 【用户页面-查看用户余额】 行为，获取元素 【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 的文本值。
+2020-09-01 17:33:33,674-root-【INFO】-basepage.py-【134】:文本值为：【6122600263.42元】
+2020-09-01 17:33:39,800-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 17:33:39,825-root-【INFO】-basepage.py-【50】:等待耗时为：【0.024913549423217773】
+2020-09-01 17:33:39,825-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 17:33:39,831-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 17:33:39,844-root-【INFO】-basepage.py-【134】:文本值为：【8.94】
+2020-09-01 17:33:39,844-root-【INFO】-bid_page.py-【26】:89400.0
+2020-09-01 18:03:21,368-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 18:03:21,392-root-【INFO】-basepage.py-【50】:等待耗时为：【0.023930072784423828】
+2020-09-01 18:03:21,392-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 18:03:21,413-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02094411849975586】
+2020-09-01 18:03:21,413-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 18:03:21,419-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 18:03:21,557-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 18:03:21,582-root-【INFO】-basepage.py-【50】:等待耗时为：【0.023936033248901367】
+2020-09-01 18:03:21,582-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 18:03:21,587-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 18:03:21,655-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 18:03:21,666-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01196742057800293】
+2020-09-01 18:03:21,666-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 18:03:21,671-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 18:05:14,885-root-【INFO】-basepage.py-【38】:在 【登陆页面_判断登陆页面登陆按钮可见】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 18:05:14,910-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02393054962158203】
+2020-09-01 18:05:14,911-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入用户名】 行为，等待元素：【('xpath', "//input[@name='phone']")】 可见
+2020-09-01 18:05:14,932-root-【INFO】-basepage.py-【50】:等待耗时为：【0.020939111709594727】
+2020-09-01 18:05:14,933-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入用户名】 行为，查找元素：【('xpath', "//input[@name='phone']")】
+2020-09-01 18:05:14,938-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入用户名】 行为，给元素：【('xpath', "//input[@name='phone']")】 输入文本值：【18684720553】
+2020-09-01 18:05:15,064-root-【INFO】-basepage.py-【38】:在 【登陆页面_在登陆页面输入密码】 行为，等待元素：【('xpath', "//input[@name='password']")】 可见
+2020-09-01 18:05:15,086-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02193427085876465】
+2020-09-01 18:05:15,086-root-【INFO】-basepage.py-【77】:在 【登陆页面_在登陆页面输入密码】 行为，查找元素：【('xpath', "//input[@name='password']")】
+2020-09-01 18:05:15,092-root-【INFO】-basepage.py-【106】:在 【登陆页面_在登陆页面输入密码】 行为，给元素：【('xpath', "//input[@name='password']")】 输入文本值：【python】
+2020-09-01 18:05:15,165-root-【INFO】-basepage.py-【38】:在 【登陆页面_点击登陆按钮】 行为，等待元素：【('xpath', "//button[text()='登录']")】 可见
+2020-09-01 18:05:15,176-root-【INFO】-basepage.py-【50】:等待耗时为：【0.010967016220092773】
+2020-09-01 18:05:15,176-root-【INFO】-basepage.py-【77】:在 【登陆页面_点击登陆按钮】 行为，查找元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 18:05:15,185-root-【INFO】-basepage.py-【94】:在 【登陆页面_点击登陆按钮】 行为，点击元素：【('xpath', "//button[text()='登录']")】
+2020-09-01 18:05:17,648-root-【INFO】-basepage.py-【38】:在 【首页-点击抢投标按钮】 行为，等待元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】 可见
+2020-09-01 18:05:17,690-root-【INFO】-basepage.py-【50】:等待耗时为：【0.042875051498413086】
+2020-09-01 18:05:17,690-root-【INFO】-basepage.py-【77】:在 【首页-点击抢投标按钮】 行为，查找元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 18:05:17,696-root-【INFO】-basepage.py-【94】:在 【首页-点击抢投标按钮】 行为，点击元素：【('xpath', "//span[text()=' 吃糖葫芦']/ancestor::a/following-sibling::div//a")】
+2020-09-01 18:05:21,292-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 18:05:21,314-root-【INFO】-basepage.py-【50】:等待耗时为：【0.021936416625976562】
+2020-09-01 18:05:21,314-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 18:05:21,323-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 18:05:21,335-root-【INFO】-basepage.py-【134】:文本值为：【8.94】
+2020-09-01 18:05:21,335-root-【INFO】-bid_page.py-【26】:89400.0
+2020-09-01 18:05:21,335-root-【INFO】-basepage.py-【38】:在 【标页面-获取用户余额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 18:05:21,350-root-【INFO】-basepage.py-【50】:等待耗时为：【0.01495361328125】
+2020-09-01 18:05:21,350-root-【INFO】-basepage.py-【77】:在 【标页面-获取用户余额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 18:05:21,357-root-【INFO】-basepage.py-【141】:在 【标页面-获取用户余额】 行为，获取元素 【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 的 【data-amount】 属性值。
+2020-09-01 18:05:21,362-root-【INFO】-basepage.py-【149】:属性值为：【6122600163.42】
+2020-09-01 18:05:21,362-root-【INFO】-basepage.py-【38】:在 【标页面-输入投资金额】 行为，等待元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 可见
+2020-09-01 18:05:21,374-root-【INFO】-basepage.py-【50】:等待耗时为：【0.011965513229370117】
+2020-09-01 18:05:21,375-root-【INFO】-basepage.py-【77】:在 【标页面-输入投资金额】 行为，查找元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】
+2020-09-01 18:05:21,380-root-【INFO】-basepage.py-【106】:在 【标页面-输入投资金额】 行为，给元素：【('xpath', "//input[@class='set-all']/parent::label/preceding::input")】 输入文本值：【100】
+2020-09-01 18:05:21,461-root-【INFO】-basepage.py-【38】:在 【标页面-点击投标按钮】 行为，等待元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】 可见
+2020-09-01 18:05:21,482-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02093815803527832】
+2020-09-01 18:05:21,482-root-【INFO】-basepage.py-【77】:在 【标页面-点击投标按钮】 行为，查找元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 18:05:21,495-root-【INFO】-basepage.py-【94】:在 【标页面-点击投标按钮】 行为，点击元素：【('xpath', "//button[contains(@class,'btn btn-special')]")】
+2020-09-01 18:05:21,549-root-【INFO】-basepage.py-【38】:在 【投标成功页面-点击查看并激活按钮】 行为，等待元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】 可见
+2020-09-01 18:05:22,088-root-【INFO】-basepage.py-【50】:等待耗时为：【0.5384273529052734】
+2020-09-01 18:05:22,089-root-【INFO】-basepage.py-【77】:在 【投标成功页面-点击查看并激活按钮】 行为，查找元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 18:05:22,094-root-【INFO】-basepage.py-【94】:在 【投标成功页面-点击查看并激活按钮】 行为，点击元素：【('xpath', "//div[text()='投标成功！']/following-sibling::div/button")】
+2020-09-01 18:05:39,652-root-【INFO】-basepage.py-【38】:在 【用户页面-查看用户余额】 行为，等待元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 可见
+2020-09-01 18:05:39,678-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02591872215270996】
+2020-09-01 18:05:39,678-root-【INFO】-basepage.py-【77】:在 【用户页面-查看用户余额】 行为，查找元素：【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】
+2020-09-01 18:05:39,685-root-【INFO】-basepage.py-【126】:在 【用户页面-查看用户余额】 行为，获取元素 【('xpath', "//ul[@class='per_list_right']/li[@class='color_sub']")】 的文本值。
+2020-09-01 18:05:39,695-root-【INFO】-basepage.py-【134】:文本值为：【6122600063.42元】
+2020-09-01 18:05:45,611-root-【INFO】-basepage.py-【38】:在 【标页面-获取标余额】 行为，等待元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 可见
+2020-09-01 18:05:45,638-root-【INFO】-basepage.py-【50】:等待耗时为：【0.02692413330078125】
+2020-09-01 18:05:45,639-root-【INFO】-basepage.py-【77】:在 【标页面-获取标余额】 行为，查找元素：【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】
+2020-09-01 18:05:45,647-root-【INFO】-basepage.py-【126】:在 【标页面-获取标余额】 行为，获取元素 【('xpath', "//div[contains(@class,'left')]//span[text()='剩余：']/following-sibling::span[@class='mo_span4']")】 的文本值。
+2020-09-01 18:05:45,659-root-【INFO】-basepage.py-【134】:文本值为：【8.93】
+2020-09-01 18:05:45,659-root-【INFO】-bid_page.py-【26】:89300.0
