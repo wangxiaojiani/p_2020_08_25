@@ -5,9 +5,12 @@
 #@File      :main.py
 #@Software  :PyCharm
 import pytest
+import sys
 
 
 if __name__ == '__main__':
+    sys.path.insert(0,'.')
     pytest.main(['-s','-v','-m','invest','--html=Outputs/reports/report.html'])
+
 
 
