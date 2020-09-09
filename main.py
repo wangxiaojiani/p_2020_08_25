@@ -7,11 +7,11 @@
 
 import sys
 import pytest
+print(sys.path)
 sys.path.insert(0, '.')
 
 if __name__ == '__main__':
-    print(sys.path)
-    pytest.main(['-s','-v','-m','invest','--html=Outputs/reports/report.html','--alluredir=Outputs/reports'])
+    pytest.main(['-s','-v','--html=Outputs/reports/report.html','--alluredir=Outputs/reports'])
 
 
 
