@@ -4,12 +4,13 @@
 #@Email     :1027867874@qq.com
 #@File      :main.py
 #@Software  :PyCharm
-import pytest
-import sys
 
+import sys
+import pytest
+sys.path.insert(0, '.')
 
 if __name__ == '__main__':
-    sys.path.insert(0,'./..')
+    print(sys.path)
     pytest.main(['-s','-v','-m','invest','--html=Outputs/reports/report.html','--alluredir=Outputs/reports'])
 
 
