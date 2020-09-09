@@ -12,7 +12,7 @@ sys.path.insert(0, '.')
 
 if __name__ == '__main__':
 
-    pytest.main(['-s','-v','-m','invest','--html=Outputs/reports/report.html','--alluredir=Outputs/reports'])
+    pytest.main(['-s','-v','-m','invest','--clean-alluredir','--html=Outputs/reports/report.html','--alluredir=Outputs/reports'])
 
 
 
